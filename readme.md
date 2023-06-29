@@ -4,6 +4,9 @@
 
 Open [**https://volopayassignment.vercel.app/**](https://volopayassignment.vercel.app/) to view it in your browser.
 
+A faster version devloped using vite can be found at 
+[https://github.com/OmkarBorker/Volopay-Faster-Vite](https://github.com/OmkarBorker/Volopay-Faster-Vite) for your convenience
+
 ## Local Development Setup
 
 Clone this repo by running
