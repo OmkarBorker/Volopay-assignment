@@ -47,7 +47,7 @@ Open [http://localhost:3500](http://localhost:3500) to view it in your browser.
 
 he app starts by importing the necessary dependencies and components such as React, useState, useEffect, axios, Header, SubHeader, and Cards.
 
-The BASE_URL constant is set to the API endpoint where the card data is fetched from. It's currently set to "http://localhost:3500". Adjust this URL according to your API endpoint.
+The BASE_URL constant is set to the API endpoint where the card data is fetched from. It's currently set to "http://localhost:350". Adjust this URL according to your API endpoint.
 
 The YOUR_OWNER_ID constant is set to the specific owner ID for which the "your" tab should filter the cards. Modify this ID based on your requirements.
 
