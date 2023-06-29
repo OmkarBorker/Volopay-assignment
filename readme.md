@@ -2,7 +2,7 @@
 
 ## Live
 
-Open [https://volopaydashboard.netlify.app](https://volopaydashboard.netlify.app) to view it in your browser.
+Open [**https://volopayassignment.vercel.app/**](https://volopayassignment.vercel.app/) to view it in your browser.
 
 ## Local Development Setup
 
