@@ -5,7 +5,7 @@ import Header from "./Common/Header";
 import SubHeader from "./Common/SubHeader";
 import Cards from "./Cards";
 
-const BASE_URL = "http://localhost:3500";
+const BASE_URL = "https://obvious-healthy-larkspur.glitch.me";
 const YOUR_OWNER_ID = "62b5b1ddfd3af019c6f80511";
 
 const App = () => {

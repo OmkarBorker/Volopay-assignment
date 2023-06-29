@@ -7,7 +7,7 @@ Open [https://volopaydashboard.netlify.app](https://volopaydashboard.netlify.app
 ## Local Development Setup
 
 Clone this repo by running
-`git clone https://github.com/jaybhoyar/volopay-assignment.git`.
+`git clone https://github.com/OmkarBorker/Volopay-assignment.git`.
 
 In the project directory, you can run:
 
@@ -20,7 +20,7 @@ yarn install
 2. Update **BASE_URL** in src/components/App.jsx file
 
 ```diff
-- const BASE_URL = "https://volopayserver.glitch.me" ;
+- const BASE_URL = "https://obvious-healthy-larkspur.glitch.me" ;
 
 + const BASE_URL = "http://localhost:3500";
 ```
