@@ -1,5 +1,5 @@
 # VoloPay Assignment
-
+Data can be verified with the db.json in the root directory
 ## Live
 
 Open [**https://volopayassignment.vercel.app/**](https://volopayassignment.vercel.app/) to view it in your browser.
